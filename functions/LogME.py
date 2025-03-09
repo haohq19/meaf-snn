@@ -1,4 +1,4 @@
-# Modified from https://github.com/thuml/LogME/blob/main/LogME.py
+# Modified from: https://github.com/thuml/LogME/blob/main/LogME.py
 # Fixed a bug discussed in https://github.com/thuml/LogME/issues/23
 
 import numpy as np
