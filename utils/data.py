@@ -3,7 +3,7 @@ import torch
 import numpy as np
 from torch.utils.data import DataLoader
 from torchvision import transforms
-from torchvision.datasets import CIFAR10, CIFAR100, Caltech101, Caltech256, DTD, Food101, MNIST
+from torchvision.datasets import CIFAR10, CIFAR100, Caltech101, MNIST
 from spikingjelly.datasets import cifar10_dvs, dvs128_gesture, n_caltech101, n_mnist
 
 
