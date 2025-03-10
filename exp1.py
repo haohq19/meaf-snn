@@ -7,7 +7,7 @@ from engines.assess import assess_with_cache
 def parser_args():
     parser = argparse.ArgumentParser(description='assess SNN with cache')
     parser.add_argument('--output_dir', default='outputs', type=str, help='output directory of cache')
-    parser.add_argument('--dataset', default='n_mnist', type=str, help='dataset')
+    parser.add_argument('--dataset', default='caltech101', type=str, help='dataset')
     parser.add_argument('--dataset_type', default='train', type=str, help='dataset type')
     return parser.parse_args()
 

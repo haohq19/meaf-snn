@@ -1,5 +1,5 @@
 # meaf-snn
-Maximum evidence method with averaged features for transferability assessment for spiking neural networks
+Maximum evidence method with averaged features (MEAF) for transferability assessment for spiking neural networks
 
 ### Environment
 ```bash
@@ -11,4 +11,3 @@ Maximum evidence method with averaged features for transferability assessment fo
  >>> conda install "numpy<2"
  >>> pip install einops
 ```
-
