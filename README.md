@@ -1,5 +1,6 @@
 # meaf-snn
 Maximum evidence method with averaged features (MEAF) for transferability assessment for spiking neural networks
+Openreview: https://openreview.net/forum?id=GaUtrgXMHe
 
 ### Environment
 ```bash
